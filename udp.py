@@ -1,5 +1,3 @@
-#!/usr/local/bin/python2.7
-
 import socket
 
 UDP_IP = "192.168.1.66"
